@@ -1,4 +1,4 @@
-name = "Maftun"
+name = "Sultonsho"
 city = "Khujand"
 
 

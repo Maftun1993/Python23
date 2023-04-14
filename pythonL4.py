@@ -1,12 +1,17 @@
 x = "UCA"
 
 
-def myFunction():
-    global x
-    x = "Oxford"
+def University():
+    x = "Khorog State University"
     print(x)
 
 
-myFunction()
+def myFunction():
+    global x
+    x = "TNU"
+    print(x)
 
+
+University()
+myFunction()
 print(x)
