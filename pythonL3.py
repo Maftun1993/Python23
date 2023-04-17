@@ -11,6 +11,6 @@ def myMonth():
     print(x)
 
 
+print(x)
 myFunction()
 myMonth()
-print(x)
